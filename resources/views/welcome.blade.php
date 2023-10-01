@@ -112,7 +112,7 @@
                                     <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Learn More<i class="fa fa-arrow-right ms-3"></i></a>
                                 </div>
                                 <div class="col-lg-5 d-none d-lg-flex animated zoomIn">
-                                    <img class="img-fluid" src="{{ asset('public/img/carousel-bg-1.jpg')}}" alt="">
+                                    <img class="img-fluid" src="{{ asset('public/img/carousel-1.png')}}" alt="">
                                 </div>
                             </div>
                         </div>
@@ -129,7 +129,7 @@
                                     <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Learn More<i class="fa fa-arrow-right ms-3"></i></a>
                                 </div>
                                 <div class="col-lg-5 d-none d-lg-flex animated zoomIn">
-                                    <img class="img-fluid" src="{{ asset('public/img/carousel-bg-2.jpg')}}" alt="">
+                                    <img class="img-fluid" src="{{ asset('public/img/carousel-2.png')}}" alt="">
                                 </div>
                             </div>
                         </div>
