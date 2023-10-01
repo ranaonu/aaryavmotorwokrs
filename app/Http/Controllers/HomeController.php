@@ -54,4 +54,9 @@ class HomeController extends Controller
         return view('product-detail',compact('active_menu'));         
     }
     
+    public function services(Request $request)
+    {   
+        $active_menu = 'services';
+        return view('services',compact('active_menu'));         
+    }
 }

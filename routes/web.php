@@ -21,8 +21,8 @@ use App\Http\Controllers\HomeController;
 
 
 Route::get('/',[HomeController::class, 'index'])->name('index');
-Route::get('/about-us',[HomeController::class, 'aboutus'])->name('aboutus');
-Route::get('/contact-us',[HomeController::class, 'contactUs'])->name('contactUs');
+Route::get('/about',[HomeController::class, 'aboutus'])->name('aboutus');
+Route::get('/contact',[HomeController::class, 'contactUs'])->name('contactUs');
 Route::post('/contact-us',[HomeController::class, 'contactUs']);
-Route::get('/products',[HomeController::class, 'products'])->name('products');
+Route::get('/services',[HomeController::class, 'services'])->name('services');
 Route::get('/product-detail',[HomeController::class, 'productDetail'])->name('productDetail');

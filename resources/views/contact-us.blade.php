@@ -1,99 +1,81 @@
-@extends('layouts.pharma')
+@extends('layouts.aaryav')
 @section('content')
 
-    <div class="bg-light py-3">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12 mb-0">
-            <a href="index.html">Home</a> <span class="mx-2 mb-0">/</span>
-            <strong class="text-black">Contact</strong>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="site-section">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <h2 class="h3 mb-5 text-black">Get In Touch</h2>
-          </div>
-          <div class="col-md-12">
-    
-            <form action="" method="post">
-    
-              <div class="p-3 p-lg-5 border">
-                <div class="form-group row">
-                  <div class="col-md-6">
-                    <label for="c_fname" class="text-black">First Name <span class="text-danger">*</span></label>
-                    <input type="text" class="form-control" id="c_fname" name="c_fname">
-                  </div>
-                  <div class="col-md-6">
-                    <label for="c_lname" class="text-black">Last Name <span class="text-danger">*</span></label>
-                    <input type="text" class="form-control" id="c_lname" name="c_lname">
-                  </div>
-                </div>
-                <div class="form-group row">
-                  <div class="col-md-12">
-                    <label for="c_email" class="text-black">Email <span class="text-danger">*</span></label>
-                    <input type="email" class="form-control" id="c_email" name="c_email" placeholder="">
-                  </div>
-                </div>
-                <div class="form-group row">
-                  <div class="col-md-12">
-                    <label for="c_subject" class="text-black">Subject </label>
-                    <input type="text" class="form-control" id="c_subject" name="c_subject">
-                  </div>
-                </div>
-    
-                <div class="form-group row">
-                  <div class="col-md-12">
-                    <label for="c_message" class="text-black">Message </label>
-                    <textarea name="c_message" id="c_message" cols="30" rows="7" class="form-control"></textarea>
-                  </div>
-                </div>
-                <div class="form-group row">
-                  <div class="col-lg-12">
-                    <input type="submit" class="btn btn-primary btn-lg btn-block" value="Send Message">
-                  </div>
-                </div>
-              </div>
-            </form>
-          </div>
-          
-        </div>
-      </div>
-    </div>
-
-
-
-    <div class="site-section bg-primary">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <h2 class="text-white mb-4">Offices</h2>
-          </div>
-          <div class="col-lg-4">
-            <div class="p-4 bg-white mb-3 rounded">
-              <span class="d-block text-black h6 text-uppercase">New York</span>
-              <p class="mb-0">203 Fake St. Mountain View, San Francisco, California, USA</p>
+    <!-- Contact Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                <h6 class="text-primary text-uppercase">// Contact Us //</h6>
+                <h1 class="mb-5">Contact For Any Query</h1>
             </div>
-          </div>
-          <div class="col-lg-4">
-            <div class="p-4 bg-white mb-3 rounded">
-              <span class="d-block text-black h6 text-uppercase">London</span>
-              <p class="mb-0">203 Fake St. Mountain View, San Francisco, California, USA</p>
+            <div class="row g-4">
+                <div class="col-12">
+                    <div class="row gy-4">
+                        <div class="col-md-4">
+                            <div class="bg-light d-flex flex-column justify-content-center p-4">
+                                <h5 class="text-uppercase">// Booking //</h5>
+                                <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i>book@example.com</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="bg-light d-flex flex-column justify-content-center p-4">
+                                <h5 class="text-uppercase">// General //</h5>
+                                <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i>info@example.com</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="bg-light d-flex flex-column justify-content-center p-4">
+                                <h5 class="text-uppercase">// Technical //</h5>
+                                <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i>tech@example.com</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 wow fadeIn" data-wow-delay="0.1s">
+                    <iframe class="gmap_iframe position-relative rounded w-100 h-100" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=adda jhungia Tile Market, Patiala Road,  Zirakpur&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" style="min-height: 350px; border:0;" allowfullscreen="" aria-hidden="false"
+                    tabindex="0">                        
+                    </iframe>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="wow fadeInUp" data-wow-delay="0.2s">
+                        <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. </p>
+                        <form>
+                            <div class="row g-3">
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="name" placeholder="Your Name">
+                                        <label for="name">Your Name</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <input type="email" class="form-control" id="email" placeholder="Your Email">
+                                        <label for="email">Your Email</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="subject" placeholder="Subject">
+                                        <label for="subject">Subject</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-floating">
+                                        <textarea class="form-control" placeholder="Leave a message here" id="message" style="height: 100px"></textarea>
+                                        <label for="message">Message</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <button class="btn btn-primary w-100 py-3" type="submit">Send Message</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
             </div>
-          </div>
-          <div class="col-lg-4">
-            <div class="p-4 bg-white mb-3 rounded">
-              <span class="d-block text-black h6 text-uppercase">Canada</span>
-              <p class="mb-0">203 Fake St. Mountain View, San Francisco, California, USA</p>
-            </div>
-          </div>
         </div>
-      </div>
-      
     </div>
+    <!-- Contact End -->
 
     @endsection
