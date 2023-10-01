@@ -392,7 +392,7 @@
 
 
     <!-- Booking Start -->
-    <div class="container-fluid bg-secondary booking my-5 wow fadeInUp" data-wow-delay="0.1s">
+    <!-- <div class="container-fluid bg-secondary booking my-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="row gx-5">
                 <div class="col-lg-6 py-5">
@@ -439,7 +439,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Booking End -->
 
 
