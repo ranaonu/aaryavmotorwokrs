@@ -111,7 +111,7 @@
                                     <h1 class="display-3 text-white mb-4 pb-3 animated slideInDown">Qualified Car Repair Service Center</h1>
                                     <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Learn More<i class="fa fa-arrow-right ms-3"></i></a>
                                 </div>
-                                <div class="col-lg-5  d-lg-flex animated zoomIn">
+                                <div class="col-lg-5 d-none d-lg-flex animated zoomIn">
                                     <img class="img-fluid" src="{{ asset('public/img/carousel-1.png')}}" alt="">
                                 </div>
                             </div>
@@ -128,7 +128,7 @@
                                     <h1 class="display-3 text-white mb-4 pb-3 animated slideInDown">Qualified Car Wash Service Center</h1>
                                     <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Learn More<i class="fa fa-arrow-right ms-3"></i></a>
                                 </div>
-                                <div class="col-lg-5  d-lg-flex animated zoomIn">
+                                <div class="col-lg-5 d-none d-lg-flex animated zoomIn">
                                     <img class="img-fluid" src="{{ asset('public/img/carousel-2.png')}}" alt="">
                                 </div>
                             </div>
