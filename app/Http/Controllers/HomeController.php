@@ -32,13 +32,13 @@ class HomeController extends Controller
 
     public function aboutus(Request $request)
     {        
-        $active_menu = 'aboutus';
+        $active_menu = 'about';
         return view('about-us',compact('active_menu'));         
     }
 
     public function contactUs(Request $request)
     {   
-        $active_menu = 'contactus';
+        $active_menu = 'contact';
         return view('contact-us',compact('active_menu'));         
     }
 

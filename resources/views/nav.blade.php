@@ -11,17 +11,17 @@
     <div class="col-lg-7 px-5 text-start">
       <div class="h-100 d-inline-flex align-items-center py-3 me-4">
         <small class="fa fa-map-marker-alt text-primary me-2"></small>
-        <small>123 Street, New York, USA</small>
+        <small>Adda Jhungia Tile Market, Zirakpur</small>
       </div>
       <div class="h-100 d-inline-flex align-items-center py-3">
         <small class="far fa-clock text-primary me-2"></small>
-        <small>Mon - Fri : 09.00 AM - 09.00 PM</small>
+        <small>Mon - Sun : 09.00 AM - 09.00 PM</small>
       </div>
     </div>
     <div class="col-lg-5 px-5 text-end">
       <div class="h-100 d-inline-flex align-items-center py-3 me-4">
         <small class="fa fa-phone-alt text-primary me-2"></small>
-        <small>+012 345 6789</small>
+        <small>+91 82880 44026, +91 95015 36611</small>
       </div>
       <div class="h-100 d-inline-flex align-items-center">
         <a class="btn btn-sm-square bg-white text-primary me-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -43,9 +43,9 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarCollapse">
     <div class="navbar-nav ms-auto p-4 p-lg-0">
-      <a href="{{url('/')}}" class="nav-item nav-link active">Home</a>
-      <a href="{{url('/about')}}" class="nav-item nav-link">About</a>
-      <a href="{{url('/services')}}" class="nav-item nav-link">Services</a>
+      <a href="{{url('/')}}" class="nav-item nav-link @if(isset($active_menu)) {{$active_menu == 'home'?'active':''}} @endif">Home</a>
+      <a href="{{url('/about')}}" class="nav-item nav-link @if(isset($active_menu)) {{$active_menu == 'about'?'active':''}} @endif">About</a>
+      <a href="{{url('/services')}}" class="nav-item nav-link @if(isset($active_menu)) {{$active_menu == 'services'?'active':''}} @endif">Services</a>
       <!-- <div class="nav-item dropdown">
         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
         <div class="dropdown-menu fade-up m-0">
@@ -55,7 +55,7 @@
             <a href="404.html" class="dropdown-item">404 Page</a>
         </div>
         </div> -->
-      <a href="{{url('/contact')}}" class="nav-item nav-link">Contact</a>
+      <a href="{{url('/contact')}}" class="nav-item nav-link @if(isset($active_menu)) {{$active_menu == 'contact'?'active':''}} @endif">Contact</a>
     </div>
     <!-- <a href="" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Get A Quote<i class="fa fa-arrow-right ms-3"></i></a> -->
   </div>
