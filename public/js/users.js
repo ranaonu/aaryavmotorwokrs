@@ -1,4 +1,5 @@
 $(document).ready(function(){
+	$('#contactForm')[0].reset();
 	$(document).on('click', '#submitContactUsForm', function(e) {
         e.preventDefault();
         var formId = $('form.contactForm').attr('id');
