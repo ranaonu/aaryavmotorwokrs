@@ -26,3 +26,4 @@ Route::get('/contact',[HomeController::class, 'contactUs'])->name('contactUs');
 Route::post('/contact-us',[HomeController::class, 'contactUs']);
 Route::get('/services',[HomeController::class, 'services'])->name('services');
 Route::get('/product-detail',[HomeController::class, 'productDetail'])->name('productDetail');
+Route::post('/send-contact-us-form',[HomeController::class, 'sendContactUs'])->name('sendContactUs');

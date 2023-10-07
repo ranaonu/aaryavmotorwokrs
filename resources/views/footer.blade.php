@@ -75,7 +75,9 @@
 {!! HTML::script('public/lib/tempusdominus/js/moment.min.js?v='.time()) !!}
 {!! HTML::script('public/lib/tempusdominus/js/moment-timezone.min.js?v='.time()) !!}
 {!! HTML::script('public/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js?v='.time()) !!}
+{!! HTML::script('public/js/common.js?v='.time()) !!}
 <!-- Template Javascript -->
 {!! HTML::script('public/js/main.js?v='.time()) !!}
+@yield('js-files')
 </body>
 </html>

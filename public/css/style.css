@@ -381,3 +381,10 @@
     padding-right: 0;
     border-right: none;
 }
+
+
+p.field-error {
+    color: red;
+    position: absolute;
+    font-size: 12px;
+}

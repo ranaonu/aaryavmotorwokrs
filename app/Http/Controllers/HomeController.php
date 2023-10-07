@@ -59,4 +59,33 @@ class HomeController extends Controller
         $active_menu = 'services';
         return view('services',compact('active_menu'));         
     }
+
+
+    public function sendContactUs(Request $request)
+    {   
+        $data=$request->all();
+        /*echo '<pre>';
+        print_r($data);
+        exit;*/
+        
+        $data['messages'] = $data['message'];
+        $data['introLines'] = 'New update';
+       
+       Mail::send('emails.contact_us', $data, function($message) use ($data){
+            $message->subject("Query");
+            $message->to('rajeshthakur.gcd@gmail.com');
+            $message->from('info@aaryavmotorworks.com','Aaryav Motor Works');
+        }); 
+              
+  
+        if (Mail::failures()) {
+           $data['status']= 'error';
+        }else{
+           $data['status']= 'success';
+        }
+        echo json_encode($data);
+
+
+    }
+
 }
