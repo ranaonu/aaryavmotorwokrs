@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use Auth;
 use Config;
 use Mail; 
+use App\Models\Portfolio;
 class HomeController extends Controller
 {
     /**
@@ -60,6 +61,40 @@ class HomeController extends Controller
         return view('services',compact('active_menu'));         
     }
 
+    //ourPortfolio
+    public function ourPortfolio(Request $request)
+    {   
+        $active_menu = 'portfolio';
+        $photos = Portfolio::orderBy("id", "DESC")->where('type','photo')->take(6)->get()->toArray();
+        $videos = Portfolio::orderBy("id", "DESC")->where('type','video')->take(6)->get()->toArray();
+        /*echo '<pre>';
+        print_r($photos);
+        exit;*/
+        return view('portfolio',compact('active_menu','photos','videos'));         
+    }
+
+    //allVideos
+    //allPhotos
+
+    public function allPhotos(Request $request)
+    {   
+        $active_menu = 'portfolio';
+        $photos = Portfolio::orderBy("id", "DESC")->where('type','photo')->get()->toArray();
+        /*echo '<pre>';
+        print_r($photos);
+        exit;*/
+        return view('all-photos',compact('active_menu','photos'));         
+    }
+
+    public function allVideos(Request $request)
+    {   
+        $active_menu = 'portfolio';
+        $videos = Portfolio::orderBy("id", "DESC")->where('type','video')->get()->toArray();
+        /*echo '<pre>';
+        print_r($photos);
+        exit;*/
+        return view('all-videos',compact('active_menu','videos'));         
+    }
 
     public function sendContactUs(Request $request)
     {   
@@ -84,8 +119,6 @@ class HomeController extends Controller
            $data['status']= 'success';
         }
         echo json_encode($data);
-
-
     }
 
 }
