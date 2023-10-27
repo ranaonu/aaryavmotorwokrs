@@ -2,7 +2,7 @@
 @section('content')
     
     <!-- Page Header Start -->
-    <div class="container-fluid page-header mb-5 p-0" style="background-image: url('{{ asset("public/img/carousel-bg-1.jpg")}}');">
+    <div class="container-fluid page-header mb-5 p-0" style="background-image: url('{{ asset("public/img/serv-1.jpeg")}}');">
         <div class="container-fluid page-header-inner py-5">
             <div class="container text-center">
                 <h1 class="display-3 text-white mb-3 animated slideInDown">Contact Us</h1>
@@ -26,7 +26,7 @@
                 <h1 class="mb-5">Contact For Any Query</h1>
             </div>
             <div class="row g-4">
-                <div class="col-12">
+               <!--  <div class="col-12">
                     <div class="row gy-4">
                         <div class="col-md-4">
                             <div class="bg-light d-flex flex-column justify-content-center p-4">
@@ -47,7 +47,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-md-6 wow fadeIn" data-wow-delay="0.1s">
                     <iframe class="gmap_iframe position-relative rounded w-100 h-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3433.186212689301!2d76.79676420000001!3d30.62870920000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390feb6d0022697b%3A0xde5a50fd78a2a229!2sAaryav%20Motor%20Works!5e0!3m2!1sen!2sin!4v1696656863341!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 

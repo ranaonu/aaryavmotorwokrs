@@ -2,7 +2,7 @@
 @section('content')
   
   <!-- Page Header Start -->
-    <div class="container-fluid page-header mb-5 p-0" style="background-image: url('{{ asset("public/img/carousel-bg-1.jpg")}}');">
+    <div class="container-fluid page-header mb-5 p-0" style="background-image: url('{{ asset("public/img/serv-7.jpeg")}}');">
         <div class="container-fluid page-header-inner py-5">
             <div class="container text-center">
                 <h1 class="display-3 text-white mb-3 animated slideInDown">About Us</h1>
@@ -28,7 +28,7 @@
                         <div class="ps-4">
                             <h5 class="mb-3">Quality Servicing</h5>
                             <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
-                            <a class="text-secondary border-bottom" href="">Read More</a>
+                            <!-- <a class="text-secondary border-bottom" href="">Read More</a> -->
                         </div>
                     </div>
                 </div>
@@ -38,7 +38,7 @@
                         <div class="ps-4">
                             <h5 class="mb-3">Expert Workers</h5>
                             <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
-                            <a class="text-secondary border-bottom" href="">Read More</a>
+                            <!-- <a class="text-secondary border-bottom" href="">Read More</a> -->
                         </div>
                     </div>
                 </div>
@@ -48,7 +48,7 @@
                         <div class="ps-4">
                             <h5 class="mb-3">Modern Equipment</h5>
                             <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
-                            <a class="text-secondary border-bottom" href="">Read More</a>
+                            <!-- <a class="text-secondary border-bottom" href="">Read More</a> -->
                         </div>
                     </div>
                 </div>
@@ -109,7 +109,7 @@
                             </div>
                         </div>
                     </div>
-                    <a href="" class="btn btn-primary py-3 px-5">Read More<i class="fa fa-arrow-right ms-3"></i></a>
+                    <!-- <a href="" class="btn btn-primary py-3 px-5">Read More<i class="fa fa-arrow-right ms-3"></i></a> -->
                 </div>
             </div>
         </div>

@@ -12,7 +12,7 @@
                             <div class="col-10 col-lg-7 text-center text-lg-start">
                                 <h6 class="text-white text-uppercase mb-3 animated slideInDown">// Car Servicing //</h6>
                                 <h1 class="display-3 text-white mb-4 pb-3 animated slideInDown">Qualified Car Repair Service Center</h1>
-                                <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Learn More<i class="fa fa-arrow-right ms-3"></i></a>
+                                <!-- <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Learn More<i class="fa fa-arrow-right ms-3"></i></a> -->
                             </div>
                             <div class="col-lg-5 d-none d-lg-flex animated zoomIn">
                                 <img class="img-fluid" src="{{ asset('public/img/carousel-1.png')}}" alt="">
@@ -29,7 +29,7 @@
                             <div class="col-10 col-lg-7 text-center text-lg-start">
                                 <h6 class="text-white text-uppercase mb-3 animated slideInDown">// Car Servicing //</h6>
                                 <h1 class="display-3 text-white mb-4 pb-3 animated slideInDown">Qualified Car Wash Service Center</h1>
-                                <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Learn More<i class="fa fa-arrow-right ms-3"></i></a>
+                                <!-- <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Learn More<i class="fa fa-arrow-right ms-3"></i></a> -->
                             </div>
                             <div class="col-lg-5 d-none d-lg-flex animated zoomIn">
                                 <img class="img-fluid" src="{{ asset('public/img/carousel-2.png')}}" alt="">
@@ -62,7 +62,7 @@
                     <div class="ps-4">
                         <h5 class="mb-3">Quality Servicing</h5>
                         <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
-                        <a class="text-secondary border-bottom" href="">Read More</a>
+                        <!-- <a class="text-secondary border-bottom" href="">Read More</a> -->
                     </div>
                 </div>
             </div>
@@ -72,7 +72,7 @@
                     <div class="ps-4">
                         <h5 class="mb-3">Expert Workers</h5>
                         <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
-                        <a class="text-secondary border-bottom" href="">Read More</a>
+                        <!-- <a class="text-secondary border-bottom" href="">Read More</a> -->
                     </div>
                 </div>
             </div>
@@ -82,7 +82,7 @@
                     <div class="ps-4">
                         <h5 class="mb-3">Modern Equipment</h5>
                         <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
-                        <a class="text-secondary border-bottom" href="">Read More</a>
+                        <!-- <a class="text-secondary border-bottom" href="">Read More</a> -->
                     </div>
                 </div>
             </div>
@@ -96,7 +96,7 @@
         <div class="row g-5">
             <div class="col-lg-6 pt-4" style="min-height: 400px;">
                 <div class="position-relative h-100 wow fadeIn" data-wow-delay="0.1s">
-                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/img/about.jpg')}}" style="object-fit: cover;" alt="">
+                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/img/serv-10.jpeg')}}" style="object-fit: cover;" alt="">
                     <div class="position-absolute top-0 end-0 mt-n4 me-n4 py-4 px-5" style="background: rgba(0, 0, 0, .08);">
                         <h1 class="display-4 text-white mb-0">15 <span class="fs-4">Years</span></h1>
                         <h4 class="text-white">Experience</h4>
@@ -142,7 +142,7 @@
                         </div>
                     </div>
                 </div>
-                <a href="" class="btn btn-primary py-3 px-5">Read More<i class="fa fa-arrow-right ms-3"></i></a>
+                <!-- <a href="" class="btn btn-primary py-3 px-5">Read More<i class="fa fa-arrow-right ms-3"></i></a> -->
             </div>
         </div>
     </div>
@@ -154,22 +154,22 @@
         <div class="row g-4">
             <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.1s">
                 <i class="fa fa-check fa-2x text-white mb-3"></i>
-                <h2 class="text-white mb-2" data-toggle="counter-up">1234</h2>
+                <h2 class="text-white mb-2" data-toggle="counter-up">15</h2>
                 <p class="text-white mb-0">Years Experience</p>
             </div>
             <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.3s">
                 <i class="fa fa-users-cog fa-2x text-white mb-3"></i>
-                <h2 class="text-white mb-2" data-toggle="counter-up">1234</h2>
+                <h2 class="text-white mb-2" data-toggle="counter-up">25</h2>
                 <p class="text-white mb-0">Expert Technicians</p>
             </div>
             <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.5s">
                 <i class="fa fa-users fa-2x text-white mb-3"></i>
-                <h2 class="text-white mb-2" data-toggle="counter-up">1234</h2>
+                <h2 class="text-white mb-2" data-toggle="counter-up">500</h2>
                 <p class="text-white mb-0">Satisfied Clients</p>
             </div>
             <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.7s">
                 <i class="fa fa-car fa-2x text-white mb-3"></i>
-                <h2 class="text-white mb-2" data-toggle="counter-up">1234</h2>
+                <h2 class="text-white mb-2" data-toggle="counter-up">1000</h2> 
                 <p class="text-white mb-0">Compleate Projects</p>
             </div>
         </div>
@@ -210,8 +210,8 @@
                         <div class="row g-4">
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
-                                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/img/service-1.jpg')}}"
-                                        style="object-fit: cover;" alt="">
+                                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/img/serv-12.jpeg')}}"
+                                        style="object-fit: contain;" alt="">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -220,7 +220,7 @@
                                 <p><i class="fa fa-check text-success me-3"></i>Quality Servicing</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Expert Workers</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Modern Equipment</p>
-                                <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More<i class="fa fa-arrow-right ms-3"></i></a>
+                                <!-- <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More<i class="fa fa-arrow-right ms-3"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -228,8 +228,8 @@
                         <div class="row g-4">
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
-                                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/img/service-2.jpg')}}"
-                                        style="object-fit: cover;" alt="">
+                                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/img/serv-4.jpeg')}}"
+                                        style="object-fit: contain;" alt="">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -238,7 +238,7 @@
                                 <p><i class="fa fa-check text-success me-3"></i>Quality Servicing</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Expert Workers</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Modern Equipment</p>
-                                <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More<i class="fa fa-arrow-right ms-3"></i></a>
+                                <!-- <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More<i class="fa fa-arrow-right ms-3"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -246,8 +246,8 @@
                         <div class="row g-4">
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
-                                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/img/service-3.jpg')}}"
-                                        style="object-fit: cover;" alt="">
+                                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/img/serv-10.jpeg')}}"
+                                        style="object-fit: contain;" alt="">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -256,7 +256,7 @@
                                 <p><i class="fa fa-check text-success me-3"></i>Quality Servicing</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Expert Workers</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Modern Equipment</p>
-                                <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More<i class="fa fa-arrow-right ms-3"></i></a>
+                                <!-- <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More<i class="fa fa-arrow-right ms-3"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -265,7 +265,7 @@
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
                                     <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/img/service-4.jpg')}}"
-                                        style="object-fit: cover;" alt="">
+                                        style="object-fit: contain;" alt="">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -274,7 +274,7 @@
                                 <p><i class="fa fa-check text-success me-3"></i>Quality Servicing</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Expert Workers</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Modern Equipment</p>
-                                <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More<i class="fa fa-arrow-right ms-3"></i></a>
+                                <!-- <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More<i class="fa fa-arrow-right ms-3"></i></a> -->
                             </div>
                         </div>
                     </div>

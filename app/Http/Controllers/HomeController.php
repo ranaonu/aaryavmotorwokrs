@@ -108,7 +108,7 @@ class HomeController extends Controller
        
        Mail::send('emails.contact_us', $data, function($message) use ($data){
             $message->subject("Query");
-            $message->to('rajeshthakur.gcd@gmail.com');
+            $message->to('aaryavmotorworks@gmail.com');
             $message->from('info@aaryavmotorworks.com','Aaryav Motor Works');
         }); 
               
