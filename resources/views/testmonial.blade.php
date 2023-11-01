@@ -6,7 +6,7 @@
             </div>
             <div class="owl-carousel testimonial-carousel position-relative">
                 <div class="testimonial-item text-center">
-                    <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/img/testimonial-1.jpg')}}" style="width: 80px; height: 80px;">
+                    <!-- <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/img/testimonial-1.jpg')}}" style="width: 80px; height: 80px;"> -->
                     <h5 class="mb-0">Shashi Patial</h5>
                     <p></p>
                     <div class="testimonial-text bg-light text-center p-4">
@@ -14,7 +14,7 @@
                     </div>
                 </div>
                 <div class="testimonial-item text-center">
-                    <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/img/testimonial-2.jpg')}}" style="width: 80px; height: 80px;">
+                    <!-- <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/img/testimonial-2.jpg')}}" style="width: 80px; height: 80px;"> -->
                     <h5 class="mb-0">Shiv Kumar Gupta</h5>
                     <p></p>
                     <div class="testimonial-text bg-light text-center p-4">
@@ -22,7 +22,7 @@
                     </div>
                 </div>
                 <div class="testimonial-item text-center">
-                    <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/img/testimonial-3.jpg')}}" style="width: 80px; height: 80px;">
+                    <!-- <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/img/testimonial-3.jpg')}}" style="width: 80px; height: 80px;"> -->
                     <h5 class="mb-0">Mukesh Chauhan</h5>
                     <p></p>
                     <div class="testimonial-text bg-light text-center p-4">
@@ -30,7 +30,7 @@
                     </div>
                 </div>
                 <div class="testimonial-item text-center">
-                    <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/img/testimonial-4.jpg')}}" style="width: 80px; height: 80px;">
+                    <!-- <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/img/testimonial-4.jpg')}}" style="width: 80px; height: 80px;"> -->
                     <h5 class="mb-0">Rajesh Thakur</h5>
                     <p></p>
                     <div class="testimonial-text bg-light text-center p-4">
