@@ -61,7 +61,7 @@
                     <i class="fa fa-certificate fa-3x text-primary flex-shrink-0"></i>
                     <div class="ps-4">
                         <h5 class="mb-3">Quality Servicing</h5>
-                        <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
+                        <p>Quality servicing for car services is crucial to ensure the optimal performance and longevity of your vehicle</p>
                         <!-- <a class="text-secondary border-bottom" href="">Read More</a> -->
                     </div>
                 </div>
@@ -71,7 +71,7 @@
                     <i class="fa fa-users-cog fa-3x text-primary flex-shrink-0"></i>
                     <div class="ps-4">
                         <h5 class="mb-3">Expert Workers</h5>
-                        <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
+                        <p>We have highly skilled professionals who specialize in the maintenance, repair, and diagnosis of vehicles</p>
                         <!-- <a class="text-secondary border-bottom" href="">Read More</a> -->
                     </div>
                 </div>
@@ -81,7 +81,7 @@
                     <i class="fa fa-tools fa-3x text-primary flex-shrink-0"></i>
                     <div class="ps-4">
                         <h5 class="mb-3">Modern Equipment</h5>
-                        <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
+                        <p>We have latest and advanced modern equipment  tools, machinery, or technology to improve efficiency, productivity, and accuracy of vehicles</p>
                         <!-- <a class="text-secondary border-bottom" href="">Read More</a> -->
                     </div>
                 </div>
@@ -105,9 +105,14 @@
             </div>
             <div class="col-lg-6">
                 <h6 class="text-primary text-uppercase">// About Us //</h6>
-                <h1 class="mb-4"><span class="text-primary">CarServ</span> Is The Best Place For Your Auto Care</h1>
-                <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                <div class="row g-4 mb-3 pb-3">
+                <h1 class="mb-4"><span class="text-primary">Aaryav Motor Works</span> Is The Best Place For Your Auto Care</h1>
+                <p class="mb-4">Quality servicing for car services is crucial to ensure the optimal performance and longevity of your vehicle. When seeking car servicing, it is important to choose a reputable service provider that offers high-quality services</p>
+
+                <p>
+                    
+                    Our trained technicians at Aaryav Motor Service, can service any car. We drive on the know-how and technology to offer you excellent performance at a fair price.
+                </p>
+                <!-- <div class="row g-4 mb-3 pb-3">
                     <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
                         <div class="d-flex">
                             <div class="bg-light d-flex flex-shrink-0 align-items-center justify-content-center mt-1" style="width: 45px; height: 45px;">
@@ -141,7 +146,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- <a href="" class="btn btn-primary py-3 px-5">Read More<i class="fa fa-arrow-right ms-3"></i></a> -->
             </div>
         </div>
@@ -216,10 +221,14 @@
                             </div>
                             <div class="col-md-6">
                                 <h3 class="mb-3">15 Years Of Experience In Auto Servicing</h3>
-                                <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                                <p><i class="fa fa-check text-success me-3"></i>Quality Servicing</p>
-                                <p><i class="fa fa-check text-success me-3"></i>Expert Workers</p>
-                                <p><i class="fa fa-check text-success me-3"></i>Modern Equipment</p>
+                                <p class="mb-4">Maintain your car and increase its performance with regular servicing.
+We can provide professional servicing and maintenance work</p>
+                                <p><i class="fa fa-check text-success me-3"></i>for all vehicle models of any make, any age, and even new ones
+</p>
+                                <p><i class="fa fa-check text-success me-3"></i>complete details shared before the service begins
+</p>
+                                <p><i class="fa fa-check text-success me-3"></i>recording of all work in a service booklet
+</p>
                                 <!-- <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More<i class="fa fa-arrow-right ms-3"></i></a> -->
                             </div>
                         </div>
@@ -234,10 +243,12 @@
                             </div>
                             <div class="col-md-6">
                                 <h3 class="mb-3">15 Years Of Experience In Auto Servicing</h3>
-                                <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                                <p><i class="fa fa-check text-success me-3"></i>Quality Servicing</p>
-                                <p><i class="fa fa-check text-success me-3"></i>Expert Workers</p>
-                                <p><i class="fa fa-check text-success me-3"></i>Modern Equipment</p>
+                                <p class="mb-4">A computerized car diagnostic check will give you a true picture of how your vehicle is running.</p>
+                                <p><i class="fa fa-check text-success me-3"></i>Fault analysis with the latest diagnostic equipment</p>
+                                <p><i class="fa fa-check text-success me-3"></i>Adjustment for optimum performance and emissions
+</p>
+                                <p><i class="fa fa-check text-success me-3"></i>Workshop personnel trained to an advanced level
+</p>
                                 <!-- <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More<i class="fa fa-arrow-right ms-3"></i></a> -->
                             </div>
                         </div>
@@ -252,10 +263,7 @@
                             </div>
                             <div class="col-md-6">
                                 <h3 class="mb-3">15 Years Of Experience In Auto Servicing</h3>
-                                <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                                <p><i class="fa fa-check text-success me-3"></i>Quality Servicing</p>
-                                <p><i class="fa fa-check text-success me-3"></i>Expert Workers</p>
-                                <p><i class="fa fa-check text-success me-3"></i>Modern Equipment</p>
+                                <p class="mb-4">Tyre fitting may seem like a routine job, but if it’s done in a professional manner, it can greatly contribute to the economy and safety of your vehicle. That’s why you should always make an appointment when you need tyre replacement or seasonal swapping.</p>
                                 <!-- <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More<i class="fa fa-arrow-right ms-3"></i></a> -->
                             </div>
                         </div>
@@ -270,10 +278,11 @@
                             </div>
                             <div class="col-md-6">
                                 <h3 class="mb-3">15 Years Of Experience In Auto Servicing</h3>
-                                <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                                <p><i class="fa fa-check text-success me-3"></i>Quality Servicing</p>
-                                <p><i class="fa fa-check text-success me-3"></i>Expert Workers</p>
-                                <p><i class="fa fa-check text-success me-3"></i>Modern Equipment</p>
+                                <p class="mb-4">Modern motor oil is a miracle of engineering that has a host of positive effects on your engine – lubrication is just the beginning. But you do have to get an oil and filter change from time to time to avoid experiencing serious problems with your vehicle.</p>
+                                <p><i class="fa fa-check text-success me-3"></i>Use of genuine Auto part</p>
+                                <p><i class="fa fa-check text-success me-3"></i>Responsible oil disposal</p>
+                                <p><i class="fa fa-check text-success me-3"></i>Enhances the car’s service record
+</p>
                                 <!-- <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More<i class="fa fa-arrow-right ms-3"></i></a> -->
                             </div>
                         </div>
@@ -413,47 +422,6 @@
 </div>
 <!-- Team End -->
 <!-- Testimonial Start -->
-<div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
-    <div class="container">
-        <div class="text-center">
-            <h6 class="text-primary text-uppercase">// Testimonial //</h6>
-            <h1 class="mb-5">Our Clients Say!</h1>
-        </div>
-        <div class="owl-carousel testimonial-carousel position-relative">
-            <div class="testimonial-item text-center">
-                <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/img/testimonial-1.jpg')}}" style="width: 80px; height: 80px;">
-                <h5 class="mb-0">Client Name</h5>
-                <p>Profession</p>
-                <div class="testimonial-text bg-light text-center p-4">
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
-                </div>
-            </div>
-            <div class="testimonial-item text-center">
-                <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/img/testimonial-2.jpg')}}" style="width: 80px; height: 80px;">
-                <h5 class="mb-0">Client Name</h5>
-                <p>Profession</p>
-                <div class="testimonial-text bg-light text-center p-4">
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
-                </div>
-            </div>
-            <div class="testimonial-item text-center">
-                <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/img/testimonial-3.jpg')}}" style="width: 80px; height: 80px;">
-                <h5 class="mb-0">Client Name</h5>
-                <p>Profession</p>
-                <div class="testimonial-text bg-light text-center p-4">
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
-                </div>
-            </div>
-            <div class="testimonial-item text-center">
-                <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/img/testimonial-4.jpg')}}" style="width: 80px; height: 80px;">
-                <h5 class="mb-0">Client Name</h5>
-                <p>Profession</p>
-                <div class="testimonial-text bg-light text-center p-4">
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+@include('testmonial')
 <!-- Testimonial End -->
 @endsection

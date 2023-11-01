@@ -27,7 +27,7 @@
                         <i class="fa fa-certificate fa-3x text-primary flex-shrink-0"></i>
                         <div class="ps-4">
                             <h5 class="mb-3">Quality Servicing</h5>
-                            <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
+                            <p>Quality servicing for car services is crucial to ensure the optimal performance and longevity of your vehicle</p>
                             <!-- <a class="text-secondary border-bottom" href="">Read More</a> -->
                         </div>
                     </div>
@@ -37,7 +37,7 @@
                         <i class="fa fa-users-cog fa-3x text-primary flex-shrink-0"></i>
                         <div class="ps-4">
                             <h5 class="mb-3">Expert Workers</h5>
-                            <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
+                            <p>We have highly skilled professionals who specialize in the maintenance, repair, and diagnosis of vehicles</p>
                             <!-- <a class="text-secondary border-bottom" href="">Read More</a> -->
                         </div>
                     </div>
@@ -47,7 +47,7 @@
                         <i class="fa fa-tools fa-3x text-primary flex-shrink-0"></i>
                         <div class="ps-4">
                             <h5 class="mb-3">Modern Equipment</h5>
-                            <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
+                            <p>We have latest and advanced modern equipment  tools, machinery, or technology to improve efficiency, productivity, and accuracy of vehicles</p>
                             <!-- <a class="text-secondary border-bottom" href="">Read More</a> -->
                         </div>
                     </div>
@@ -72,9 +72,14 @@
                 </div>
                 <div class="col-lg-6">
                     <h6 class="text-primary text-uppercase">// About Us //</h6>
-                    <h1 class="mb-4"><span class="text-primary">CarServ</span> Is The Best Place For Your Auto Care</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                    <div class="row g-4 mb-3 pb-3">
+                    <h1 class="mb-4"><span class="text-primary">Aaryav Motor Works</span> Is The Best Place For Your Auto Care</h1>
+                <p class="mb-4">Quality servicing for car services is crucial to ensure the optimal performance and longevity of your vehicle. When seeking car servicing, it is important to choose a reputable service provider that offers high-quality services</p>
+
+                <p>
+                    
+                    Our trained technicians at Aaryav Motor Service, can service any car. We drive on the know-how and technology to offer you excellent performance at a fair price.
+                </p>
+                    <!-- <div class="row g-4 mb-3 pb-3">
                         <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
                             <div class="d-flex">
                                 <div class="bg-light d-flex flex-shrink-0 align-items-center justify-content-center mt-1" style="width: 45px; height: 45px;">
@@ -108,7 +113,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- <a href="" class="btn btn-primary py-3 px-5">Read More<i class="fa fa-arrow-right ms-3"></i></a> -->
                 </div>
             </div>

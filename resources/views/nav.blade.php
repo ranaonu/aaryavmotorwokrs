@@ -58,7 +58,7 @@
         </div>
         </div> -->
         <a href="{{url('/our-portfolio')}}" class="nav-item nav-link @if(isset($active_menu)) {{$active_menu == 'portfolio'?'active':''}} @endif">Our Portfolio</a>
-      <a href="{{url('/contact')}}" class="nav-item nav-link @if(isset($active_menu)) {{$active_menu == 'contact'?'active':''}} @endif">Contact</a>
+      <a href="{{url('/contact')}}" class="nav-item nav-link @if(isset($active_menu)) {{$active_menu == 'contact'?'active':''}} @endif">Contact Us</a>
 
       @guest
         <a href="{{url('/login')}}" class="nav-item nav-link">Sign In </a>

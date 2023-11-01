@@ -58,7 +58,7 @@
 
                 <div class="col-md-6">
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
-                        <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. </p>
+                        <p class="mb-4">If you are looking for Car Service workshop near you, then you can visit our workshop. You can find the location on map. For any other help please complete the contact form and we will contact to you as soon as possible.</p>
                         {!! Form::open(['url' => url('/send-contact-us-form'),'id'=>'contactForm',  'class' => 'my_form  contactForm m-t-20 data-parsley-validate novalidate form-control','enctype'=>'multipart/form-data'] ) !!}
                             <div class="row g-3">
                                 <div class="col-md-6">
