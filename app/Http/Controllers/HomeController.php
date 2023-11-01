@@ -111,6 +111,12 @@ class HomeController extends Controller
             $message->to('aaryavmotorworks@gmail.com');
             $message->from('info@aaryavmotorworks.com','Aaryav Motor Works');
         }); 
+
+       Mail::send('emails.contact_us', $data, function($message2) use ($data){
+            $message2->subject("Query");
+            $message2->to('rajeshthakur.gcd@gmail.com')
+            $message2->from('info@aaryavmotorworks.com','Aaryav Motor Works');
+        }); 
               
   
         if (Mail::failures()) {
