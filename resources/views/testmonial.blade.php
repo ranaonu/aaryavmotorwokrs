@@ -22,14 +22,6 @@
                     </div>
                 </div>
                 <div class="testimonial-item text-center">
-                    <!-- <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/img/testimonial-3.jpg')}}" style="width: 80px; height: 80px;"> -->
-                    <h5 class="mb-0">Mukesh Chauhan</h5>
-                    <p></p>
-                    <div class="testimonial-text bg-light text-center p-4">
-                    <p class="mb-0">Very nice service. Friendly staff and seamless handling of any repair and service work for any type of car. I had given my car for a small fix and also servicing, polishing - all work done very nicely..</p>
-                    </div>
-                </div>
-                <div class="testimonial-item text-center">
                     <!-- <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/img/testimonial-4.jpg')}}" style="width: 80px; height: 80px;"> -->
                     <h5 class="mb-0">Rajesh Thakur</h5>
                     <p></p>
