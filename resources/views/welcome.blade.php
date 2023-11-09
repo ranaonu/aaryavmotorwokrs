@@ -21,7 +21,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="w-100" src="{{ asset('public/img/slider_2.jpeg')}}" alt="Image">
+                <img class="w-100" src="{{ asset('public/img/slider_5.jpeg')}}" alt="Image">
                 <div class="carousel-caption d-flex align-items-center">
                     <div class="container">
                         <div class="row align-items-center justify-content-center justify-content-lg-start">
