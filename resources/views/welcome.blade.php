@@ -346,7 +346,7 @@ We can provide professional servicing and maintenance work</p>
     <div class="container">
         <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
             <h6 class="text-primary text-uppercase">// Our Team //</h6>
-            <h1 class="mb-5">Our Expert Team</h1>
+            <h1 class="mb-5">Our Team</h1>
         </div>
         <div class="row g-4">
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
