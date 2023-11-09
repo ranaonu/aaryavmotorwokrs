@@ -36,6 +36,26 @@
                     </div>
                 </div>
             </div>
+
+
+            <div class="carousel-item">
+                <img class="w-100" src="{{ asset('public/img/slider_6.jpeg')}}" alt="Image">
+                <div class="carousel-caption d-flex align-items-center">
+                    <div class="container">
+                        <div class="row align-items-center justify-content-center justify-content-lg-start">
+                            <div class="col-10 col-lg-7 text-center text-lg-start">
+                                <!-- <h6 class="text-white text-uppercase mb-3 animated slideInDown">// Car Servicing //</h6>
+                                <h1 class="display-3 text-white mb-4 pb-3 animated slideInDown">Qualified Car Repair Service Center</h1> -->
+                            </div>
+                            <!-- <div class="col-lg-5 d-none d-lg-flex animated zoomIn">
+                                <img class="img-fluid" src="{{ asset('public/img/carousel-1.png')}}" alt="">
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel"
             data-bs-slide="prev">
