@@ -34,7 +34,7 @@
 </div>
 <!-- Topbar End -->
 <!-- Navbar Start -->
-<nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
+<nav class="navbar navbar-expand-lg bg-white navbar-light shadow1 sticky-top p-0">
   <a href="{{url('/')}}" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
     <img class="img-fluid" src="{{ asset('public/img/logo.png')}}" alt="" width="75" height="60">
     <!-- <h2 class="m-0 text-primary"><i class="fa fa-car me-3"></i>CarServ</h2> -->
